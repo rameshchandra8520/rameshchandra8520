@@ -75,18 +75,18 @@
 <br>
 <!--  <a > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&layout=compact&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=000&text_color=000"  align="center" height="165" /></a> -->
  <p align="center" >
- <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshchandrapola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Rameshchandra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshchandra8520&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" /></a></p>
 
 ## 📊 My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="45px">
 
   
    <p align="center" >
- <a href="#"><img alt="Rameshchandrapola's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=Rameshchandrapola&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+ <a href="#"><img alt="Rameshchandrapola's Github Stats"   src="https://github-readme-stats.vercel.app/api?username=rameshchandra8520&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <p align="center" >
- <a href="#"><img  alt="Rameshchandrapola's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
+ <a href="#"><img  alt="Rameshchandrapola's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=rameshchandra8520&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" /> </a></p>
 
 
-<a href="#"><img alt="Rameshchandrapola's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rameshchandrapola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Rameshchandrapola's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rameshchandra8520&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!-- 
 <table><td valign="top" width="50%">
@@ -95,6 +95,9 @@
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rameshchandrapola&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" align="left" style="width: 100%" /> -->
 <!-- </td></table>   -->
+
+
+
 
 <h2 align="center">My Trending Repos 💻</h2>
  <p align='center'>
@@ -105,9 +108,9 @@
     <a href="https://github.com/Rameshchandrapola/Rameshchandrapola"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rameshchandrapola&repo=Rameshchandrapola&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 </p>
 <br>
-<a><img src="https://img.shields.io/github/followers/Rameshchandrapola?label=Followers&style=social" alt="GitHub Badge"></a>
+<a><img src="https://img.shields.io/github/followers/rameshchandra8520?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rameshchandrapola&color=orange&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=rameshchandra8520&color=orange&style=flat-square)
 
   ### <h1><p align ="center"> Show Some ❤️ By  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px"> My repositories!<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="25px"></p> </h1>
 
